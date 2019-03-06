@@ -30,3 +30,7 @@ I´ll keep the binary updated manually until I create a better compiler.
 Ingar Helgesen - <ingar.helgesen@t-fk.no>
 
 <https://github.com/sherex>
+
+## License
+
+[MIT](../LICENSE)
