@@ -1,2 +1,2 @@
 # scripts-utils
-Skript som benyttes i VTFK til f.eks. vedlikehold
+Skript som benyttes i VTFK til vedlikehold og driftsoppgaver
